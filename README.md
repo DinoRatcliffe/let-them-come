@@ -5,4 +5,4 @@ Simple script that changes N number of occurrences of "lose" to "loose"
 
 Oh and this doesn't overwrite your original file so remember to pipe it to a new file 
 
-`./bartle-test.sh game-design.tex 2 > final.tex`
+`./bartle-test game-design.tex 2 > final.tex`
